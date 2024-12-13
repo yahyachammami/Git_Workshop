@@ -4,7 +4,7 @@ This repository contains materials for a Git workshop covering version control e
 
 #### Initialize a Repository ****
 > git init
-#### Connect to the Remote Repository
+#### Connect to the Remote Repository ****
 > git remote add origin repository_url
 
 #### Clone a Repository
